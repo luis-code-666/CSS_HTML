@@ -1,0 +1,9 @@
+/* se aplica a todas las etiquetas que esten serca de un h2 de los p */
+/* h2 + p{
+    color: red;
+} */
+/* con este signo ~ se aplica a todos los que estan en esa famila del div de p (parrafos)*/
+
+h2 ~ p{
+    color: green;
+}
